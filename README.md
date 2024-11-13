@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan K M</h1>
 <h3 align="center">A Software QA Engineer from India</h3>
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankm150&label=Profile%20views&color=0e75b6&style=flat" alt="chandankm150" /> </p>
 
@@ -16,7 +15,8 @@
 
 - 📫 How to reach me **chandankm178@gmail.com**
 
-- 📄 Know about my experiences [2.5 Years](2.5 Years)
+- 📄 Know about my experiences [2.5 Years]
+- <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
