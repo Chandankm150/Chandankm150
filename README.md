@@ -1,4 +1,4 @@
-![logo](https://github.com/Chandankm150/Chandankm150/blob/main/DeWatermark.ai_1729512264230.png)
+![logo](https://github.com/Chandankm150/Chandankm150/blob/main/altone.png)
 <h1 align="center">Hi 👋, I'm Chandan K M</h1>
 <h3 align="center">A Software QA Engineer from India</h3>
 <img align="right" alt="coding" width="220" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
